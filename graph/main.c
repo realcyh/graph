@@ -213,7 +213,8 @@ int main(int argc, const char * argv[]) {
 //    for (i=0; i<N; i++) {
 //        printf("%p ", A[i]);
 //    }
-//    
+//
+    printf("git first try!\n");
     
     return 0;
 }
